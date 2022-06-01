@@ -1,4 +1,4 @@
-# Code Jam 2021 Qualification Round. Reversort.
+# Google Code Jam 2021 Qualification Round. Reversort.
 
 ### Problem
 
